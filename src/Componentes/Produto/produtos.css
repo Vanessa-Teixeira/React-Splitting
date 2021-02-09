@@ -1,0 +1,18 @@
+.preco-prod {
+    text-decoration: line-through;
+    font-size: 10pt;
+}
+
+.preco-prod {
+    text-decoration: line-through;
+    font-size: 10pt;
+    color: rgb(216, 82, 20);
+    text-align: justify;
+}
+
+.nome-prod {
+    font-size: 10pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: brown;
+    text-align: center;
+}
